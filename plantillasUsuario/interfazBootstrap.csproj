@@ -128,6 +128,7 @@
     <Content Include="Imagenes\news4.jpg" />
     <Content Include="Imagenes\news5.jpg" />
     <Content Include="Imagenes\sorpresa1.jpg" />
+    <Content Include="perfil.html" />
     <Content Include="producto.html" />
     <Content Include="Registro2.html" />
     <Content Include="Registro.html" />
